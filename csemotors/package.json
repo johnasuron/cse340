@@ -1,0 +1,23 @@
+{
+  "name": "csemotors",
+  "version": "1.0.0",
+  "description": "CSE Motors - DeLorean Dream Website",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "CSE Motors",
+    "DeLorean",
+    "Static Website"
+  ],
+  "author": "Your Name",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "engines": {
+    "node": "18.x"
+  }
+}
